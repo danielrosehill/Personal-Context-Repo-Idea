@@ -48,7 +48,7 @@ The frenzied pace of development activity in models, coupled with dramatic chang
 
 By trying to tailor their use of models to their different strengths, consumers can better test the waters of this fast moving scene without feeling overly caught up in any particular stream within it. Among enthusiasts, the use of open source and self-hostable LLMs is becoming increasingly mainstream, popular and feasible, providing alternatives to using cloud large language models altogether. 
 
-### Fragmentation shows that memory context and user interface need to be decoupled. . 
+### Fragmentation shows that memory context and user interface need to be decoupled. 
 
 The increasingly fragmented state of the LLM market, however, poses an unsolved challenge for the question of user memory and context. 
 
